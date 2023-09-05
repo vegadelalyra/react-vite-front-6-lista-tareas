@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "app-example-react-front-6": "link:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
